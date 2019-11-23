@@ -4,10 +4,10 @@ At NIT Jaipur, LAN is shut down for 3 mins at 3AM everday for maintainance purpo
 
 This script logins to mnit.ac.in for you.
 
-_Dependencies:-_
+**Dependencies:-
 Python, Selenium
 
-_How to use:-_
+**How to use:-**
 
 Edit 3AMLogin.py and enter your loginid and password at appropriate places.
 
